@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+.columns {
+  min-height: 10rem;
+  border: 1px solid #333;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
